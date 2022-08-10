@@ -1,4 +1,4 @@
-# :spiral_notepad: Todo
+# :ledger: Todo
 **A simple todo app**
 
 https://sanjay-karki.github.io/todo-app/
