@@ -2,6 +2,9 @@
 **A simple todo app**
 
 https://sanjay-karki.github.io/todo-app/
+<p align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/106867464/184632614-3ed73698-d2ca-4e1c-a476-25fe191904ba.png" width="69%">
+</p>
 
 ## :page_with_curl:	Description
 **_Simple application to keep track of the tasks you need to complete or things that you want to do._**
