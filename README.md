@@ -1,4 +1,4 @@
-# :ledger: Todo
+# :ledger: TODO
 **A simple todo app**
 
 https://sanjay-karki.github.io/todo-app/
@@ -10,7 +10,7 @@ https://sanjay-karki.github.io/todo-app/
 1. Open the application
 2. Add **TODO title** (mandatory) and **TODO description/body**
 3. Use `Edit` :pencil2: to edit a TODO and `Delete` :wastebasket: to delete one 
-4. Click on a TODO to set it as _Completed_ & vice-versa
+4. Click on a TODO to set it as _Completed_ & vice versa
 5. Click `Delete All` to delete all TODOs or `Delete Completed` to delete only completed ones 
 
 
