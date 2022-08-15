@@ -6,12 +6,12 @@
 }
 
 body {
-    display: flex;
-    flex-direction: column;
+    display: grid;
     justify-content: center;
     align-items: center;
     margin: 85px 0 50px;
     background: linear-gradient(90deg, rgba(248,14,84,0.8631827731092436) 0%, rgba(94,190,196,1) 2%, rgba(253,245,223,1) 100%);
+    height: 75vh;
 }
 
 .main-container {
