@@ -1,6 +1,5 @@
 # :ledger: TODO
-**A simple todo app**
-
+**Live Demo:**
 https://sanjay-karki.github.io/todo-app/
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/106867464/184632614-3ed73698-d2ca-4e1c-a476-25fe191904ba.png" width="69%">
